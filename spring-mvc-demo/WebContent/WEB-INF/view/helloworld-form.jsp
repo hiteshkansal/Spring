@@ -6,11 +6,14 @@
 </head>
 
 <body>
-	<form action="processFormVerionTwo" method="GET">
+	<form action="processFormVerionThree" method="GET">
 	
 		<input type="text" name ="studentName"
 			placeholder="What's your Name" />
 	
+	<input type="text" name ="teacherName"
+			placeholder="What's your Name" />
+			
 		<input type="submit" />
 	
 	</form>
